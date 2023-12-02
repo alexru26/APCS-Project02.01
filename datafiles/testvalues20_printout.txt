@@ -1,0 +1,20 @@
+20022000 base 3 = 6260 base 9
+1305433 base 6 = 16189 base 15
+503368186 base 10 = 2012330240221 base 5
+23 base 9 = 210 base 3
+323031 base 4 = ECD base 16
+77256576 base 9 = 216402115 base 8
+386405820 base 9 = 102220110012220200 base 3
+949 base 11 = 101312 base 4
+792BC7C base 16 = 36674450 base 12
+A5948B5 base 13 = 1151216065 base 7
+11210120 base 3 = 1791 base 13
+BCDEB base 15 = 1114675 base 9
+CDBB180 base 16 = 500827235 base 9
+3817020 base 10 = 7156863 base 9
+28824 base 9 = 46250 base 8
+85784B4 base 15 = 27B00B67 base 12
+23020320 base 4 = 68523 base 9
+B059862 base 12 = 31414410112 base 5
+Invalid input base -2
+Invalid output base 18

@@ -1,0 +1,30 @@
+881A361A base 11 = 322104211212 base 5
+7A92A01 base 11 = 48A2B73 base 12
+1A97A49B4 base 13 = 11022311133124 base 5
+1201111002 base 3 = 23507 base 11
+9199 base 11 = 5731 base 13
+30 base 12 = 36 base 10
+5102235 base 7 = 605862 base 10
+3024123 base 7 = 200020201020 base 3
+Invalid input base 18
+11333 base 4 = 465 base 9
+876385314 base 9 = 12306540655 base 7
+11010 base 3 = 11010 base 3
+23 base 7 = 25 base 6
+6DD30B4 base 16 = 12313103002310 base 4
+39723 base 12 = 231713 base 8
+58522720 base 9 = 24242224113 base 5
+0 base 2 = 0 base 10
+30401C8 base 14 = 22742644 base 10
+6930B752 base 13 = 1330243243204 base 5
+Invalid output base -3
+111 base 2 = 7 base 16
+70C2 base 13 = 444122 base 5
+30606 base 7 = 1110101001111 base 2
+ECF base 16 = 154B base 14
+241212343 base 5 = 10100212312 base 4
+28009770 base 13 = E621D03 base 15
+4F0A base 16 = 14225 base 11
+639 base 10 = 453 base 12
+64D2AC base 14 = 4775D4 base 15
+45403 base 6 = 190B base 16

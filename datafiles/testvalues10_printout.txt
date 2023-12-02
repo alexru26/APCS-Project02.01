@@ -1,0 +1,10 @@
+24A4B56 base 13 = 1045032210 base 6
+31 base 8 = 27 base 9
+Invalid output base -8
+4212525 base 6 = 23012401 base 5
+11011111 base 2 = ED base 15
+2252 base 9 = 11415 base 6
+66 base 7 = 110000 base 2
+531073 base 8 = 101011001000111011 base 2
+Invalid input base 17
+53 base 6 = 201 base 4
