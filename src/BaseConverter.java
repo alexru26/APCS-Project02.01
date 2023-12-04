@@ -19,7 +19,7 @@ public class BaseConverter {
     private void fileChooserPrompt() {
         final JFileChooser fc = new JFileChooser();
 
-        fc.setCurrentDirectory(new File("/Users/26ru/IdeaProjects/Project02.01-Base Converter"));
+        fc.setCurrentDirectory(new File(System.getProperty("user.home") + "/IdeaProjects/Project02.01-Base Converter"));
         fc.setDialogTitle("Choose a .dat file");
         FileNameExtensionFilter restrict = new FileNameExtensionFilter("Only .dat files", "dat");
         fc.setFileFilter(restrict);
